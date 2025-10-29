@@ -1,0 +1,113 @@
+{
+  "trial_index": 128,
+  "meta": {
+    "sampler_model": "gpt-4o-mini",
+    "evaluator_model": "gpt-4o-mini",
+    "rounds": 10,
+    "temp_sampler": 0.8,
+    "temp_evaluator": 0.4,
+    "tokens_this_trial": 8111
+  },
+  "events": [
+    {
+      "round": 1,
+      "role": "Sampler",
+      "msg": "Card List: [D1, D5, S1, S5, H1, H5, C1, C5, D10, S10]"
+    },
+    {
+      "round": 1,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my scoring knowledge, I will create a new list reflecting my confidence in each card.\n\n1. D10 (baseline consideration for red cards)\n2. D10 (baseline consideration for red cards)\n3. D10 (baseline consideration for red cards)\n4. D5 (baseline consideration for red cards)\n5. D5 (baseline consideration for red cards)\n6. D5 (baseline consideration for red cards)\n7. S1 (baseline consideration for black cards)\n8. S1 (baseline consideration for black cards)\n9. S1 (baseline consideration for black cards)\n10. S5 (baseline consideration for black cards)\n\nCard List: [D10, D10, D10, D5, D5, D5, S1, S1, S1, S5]"
+    },
+    {
+      "round": 2,
+      "role": "Sampler",
+      "msg": "Card List: [D11, D12, D13, S2, S3, S4, H1, H5, H10, C1]"
+    },
+    {
+      "round": 2,
+      "role": "Evaluator",
+      "msg": "Based on the provided cards and my assessment, here is my selection:\n\nCard List: [D11, D12, D13, H1, H5, H10, H10, H10, S2, S3]"
+    },
+    {
+      "round": 3,
+      "role": "Sampler",
+      "msg": "Card List: [D6, D8, D9, H2, H6, H7, H8, S1, S4, S5]"
+    },
+    {
+      "round": 3,
+      "role": "Evaluator",
+      "msg": "Based on the provided cards and my knowledge, here is my selection:\n\nCard List: [D8, D8, D8, D9, D9, D6, H6, H7, H8, S5]"
+    },
+    {
+      "round": 4,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D10, D11, D12, D13, H5, H9, H10, H11, S4]"
+    },
+    {
+      "round": 4,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge of card relevance, here is my selection:\n\nCard List: [D7, D7, D7, D10, D10, H5, H9, H10, H11, S4]"
+    },
+    {
+      "round": 5,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D10, H5, H9, H10, H11, S4, S7, S10, C5]"
+    },
+    {
+      "round": 5,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge of the scoring system, here is my selection:\n\nCard List: [D7, D7, D7, D10, H10, H10, H5, H9, S7, S4]"
+    },
+    {
+      "round": 6,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D10, H5, H9, S7, S4, C1, C5, C10, S3]"
+    },
+    {
+      "round": 6,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge, here is my selection:\n\nCard List: [D7, D7, D7, D10, H5, H9, S7, S4, C1, C5]"
+    },
+    {
+      "round": 7,
+      "role": "Sampler",
+      "msg": "Card List: [D8, D9, H3, H10, S2, S5, S8, C2, C6, C7]"
+    },
+    {
+      "round": 7,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge, here is my assessment:\n\n1. **D8** (Tier A, +8.0)\n2. **D9** (Tier C, +3.0)\n3. **H3** (Other red card, +0.4)\n4. **H10** (Other red card, +0.4)\n5. **S2** (Other black card, +0.2)\n6. **S5** (Other black card, +0.2)\n7. **S8** (Other black card, +0.2)\n8. **C2** (Other black card, +0.2)\n9. **C6** (Other black card, +0.2)\n10. **C7** (Other black card, +0.2)\n\nGiven the above considerations, I will prioritize the cards based on their scores, focusing on D8 first, followed by D9, and then including some of the other options to fill out the list to 10 entries.\n\nFinal Card List: [D8, D8, D8, D8, D9, D9, H3, H10, S2, S5]"
+    },
+    {
+      "round": 8,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D10, D11, H2, H5, S4, S6, S8, C3, C9]"
+    },
+    {
+      "round": 8,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge of the scoring system, I will create a new list of 10 selections that reflects my assessment of the cards.\n\n1. D7 (Tier B, score: +3.5)\n2. D10 (baseline red card, score: +0.4)\n3. D11 (baseline red card, score: +0.4)\n4. H2 (baseline red card, score: +0.4)\n5. H5 (baseline red card, score: +0.4)\n6. S4 (baseline black card, score: +0.2)\n7. S6 (baseline black card, score: +0.2)\n8. S8 (baseline black card, score: +0.2)\n9. C3 (baseline black card, score: +0.2)\n10. C9 (baseline black card, score: +0.2)\n\nThe card I am most confident in is D7, so I will include it multiple times to reflect that confidence. Other cards will be included based on their scores.\n\nFinal Card List: [D7, D7, D7, D7, D7, D7, D7, D10, D11, H2]"
+    },
+    {
+      "round": 9,
+      "role": "Sampler",
+      "msg": "Card List: [D8, D9, D12, H3, H4, H5, H6, H7, C1, S1]"
+    },
+    {
+      "round": 9,
+      "role": "Evaluator",
+      "msg": "Card List: [D8, D8, D8, D9, D9, H3, H4, H5, H6, H7]"
+    },
+    {
+      "round": 10,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D10, H2, H8, H9, H10, H11, H12, H13, C8]"
+    },
+    {
+      "round": 10,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge of card relevance, here is my selection:\n\nCard List: [D7, D7, D7, H8, H9, H10, H10, H10, C8, H2]"
+    }
+  ]
+}
