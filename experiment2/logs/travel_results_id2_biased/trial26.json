@@ -1,0 +1,102 @@
+[
+  {
+    "round": 1,
+    "role": "Sampler",
+    "msg": "Country List: [Egypt, Jordan, Israel, Tunisia, Morocco, Oman, Cyprus, UAE, Saudi Arabia, Kazakhstan]"
+  },
+  {
+    "round": 1,
+    "role": "Evaluator",
+    "msg": "Country List: [Tunisia, Tunisia, Morocco, Morocco, Oman, Oman, Egypt, Egypt, UAE, UAE]"
+  },
+  {
+    "round": 2,
+    "role": "Sampler",
+    "msg": "Country List: ['Jordan', 'Saudi Arabia', 'Kuwait', 'Bahrain', 'Qatar', 'Algeria', 'Chad', 'Sudan', 'Iraq', 'Israel']"
+  },
+  {
+    "round": 2,
+    "role": "Evaluator",
+    "msg": "Country List: [Jordan, Saudi Arabia, Kuwait, Bahrain, Qatar, Jordan, Saudi Arabia, Kuwait, Bahrain, Qatar]"
+  },
+  {
+    "round": 3,
+    "role": "Sampler",
+    "msg": "Country List: ['Oman', 'United Arab Emirates', 'Egypt', 'Tunisia', 'Algeria', 'Morocco', 'Libya', 'Israel', 'Lebanon', 'Cyprus']"
+  },
+  {
+    "round": 3,
+    "role": "Evaluator",
+    "msg": "Country List: [Morocco, Morocco, Morocco, Lebanon, Lebanon, Tunisia, Tunisia, United Arab Emirates, Egypt, Oman]"
+  },
+  {
+    "round": 4,
+    "role": "Sampler",
+    "msg": "Country List: ['Jordan', 'Saudi Arabia', 'Kuwait', 'Qatar', 'Bahrain', 'Israel', 'Cyprus', 'Algeria', 'Sudan', 'Mali']"
+  },
+  {
+    "round": 4,
+    "role": "Evaluator",
+    "msg": "Country List: [Jordan, Saudi Arabia, Kuwait, Qatar, Bahrain, Jordan, Saudi Arabia, Kuwait, Qatar, Bahrain]"
+  },
+  {
+    "round": 5,
+    "role": "Sampler",
+    "msg": "Country List: [Oman, UAE, Egypt, Tunisia, Morocco, Algeria, Cyprus, Malta, Israel, Lebanon]"
+  },
+  {
+    "round": 5,
+    "role": "Evaluator",
+    "msg": "Country List: [Lebanon, Lebanon, Lebanon, Morocco, Morocco, Tunisia, Tunisia, Egypt, UAE, Oman]"
+  },
+  {
+    "round": 6,
+    "role": "Sampler",
+    "msg": "Country List: [Jordan, Cyprus, Algeria, Libya, Saudi Arabia, Qatar, Bahrain, Kuwait, Yemen, Malta]"
+  },
+  {
+    "round": 6,
+    "role": "Evaluator",
+    "msg": "Country List: [Yemen, Yemen, Yemen, Saudi Arabia, Saudi Arabia, Algeria, Algeria, Libya, Libya, Qatar]"
+  },
+  {
+    "round": 7,
+    "role": "Sampler",
+    "msg": "Country List: ['Jordan', 'Oman', 'Egypt', 'Kuwait', 'Tunisia', 'Bahrain', 'Morocco', 'United Arab Emirates', 'Chad', 'Djibouti']"
+  },
+  {
+    "round": 7,
+    "role": "Evaluator",
+    "msg": "Country List: [Morocco, Morocco, Morocco, Tunisia, Tunisia, Tunisia, Egypt, Egypt, Oman, Oman]"
+  },
+  {
+    "round": 8,
+    "role": "Sampler",
+    "msg": "Country List: ['Jordan', 'United Arab Emirates', 'Israel', 'Saudi Arabia', 'Kuwait', 'Qatar', 'Bahrain', 'Cyprus', 'Jordan', 'Mauritania']"
+  },
+  {
+    "round": 8,
+    "role": "Evaluator",
+    "msg": "Country List: [Jordan, Jordan, United Arab Emirates, Saudi Arabia, Kuwait, Qatar, Bahrain, Israel, Jordan, Mauritania]"
+  },
+  {
+    "round": 9,
+    "role": "Sampler",
+    "msg": "Country List: [Oman, Egypt, Morocco, Tunisia, Cyprus, Lebanon, Armenia, Azerbaijan, Kazakhstan, Uzbekistan]"
+  },
+  {
+    "round": 9,
+    "role": "Evaluator",
+    "msg": "Country List: [Morocco, Morocco, Morocco, Tunisia, Tunisia, Tunisia, Lebanon, Lebanon, Egypt, Oman]"
+  },
+  {
+    "round": 10,
+    "role": "Sampler",
+    "msg": "Country List: ['Jordan', 'Israel', 'Cyprus', 'United Arab Emirates', 'Kuwait', 'Saudi Arabia', 'Qatar', 'Bahrain', 'Mali', 'Niger']"
+  },
+  {
+    "round": 10,
+    "role": "Evaluator",
+    "msg": "Country List: [United Arab Emirates, United Arab Emirates, United Arab Emirates, Saudi Arabia, Saudi Arabia, Saudi Arabia, Jordan, Jordan, Kuwait, Kuwait]"
+  }
+]
