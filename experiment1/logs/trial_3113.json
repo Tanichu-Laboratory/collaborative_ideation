@@ -1,0 +1,123 @@
+{
+  "trial_index": 113,
+  "meta": {
+    "sampler_model": "gpt-4o-mini",
+    "evaluator_model": "gpt-4o-mini",
+    "rounds": 10,
+    "temp_sampler": 0.8,
+    "temp_evaluator": 0.4,
+    "tokens_this_trial": 7742
+  },
+  "events": [
+    {
+      "round": 1,
+      "role": "Sampler",
+      "msg": "Card List: [D1, H2, S5, C7, D8, H10, S11, C12, D13, H3]"
+    },
+    {
+      "round": 1,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge, here is my selection:\n\nCard List: [D8, D8, D8, D8, D8, D8, D8, D8, D1, H2]"
+    },
+    {
+      "round": 2,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D9, D10, D11, D12, D13, H1, H3, H4, H5]"
+    },
+    {
+      "round": 2,
+      "role": "Evaluator",
+      "msg": "Card List: [D8, D7, D7, D9, D9, D9, H1, H3, H4, H5]"
+    },
+    {
+      "round": 2,
+      "role": "System",
+      "msg": "WARNING (Round 2): Evaluator selected cards not in Sampler options: ['D8']"
+    },
+    {
+      "round": 3,
+      "role": "Sampler",
+      "msg": "Card List: [D8, D9, H1, H3, H4, H5, D10, D6, H2, C7]"
+    },
+    {
+      "round": 3,
+      "role": "Evaluator",
+      "msg": "Card List: [D8, D8, D8, D7, D9, D9, H1, H2, H3, H4]"
+    },
+    {
+      "round": 3,
+      "role": "System",
+      "msg": "WARNING (Round 3): Evaluator selected cards not in Sampler options: ['D7']"
+    },
+    {
+      "round": 4,
+      "role": "Sampler",
+      "msg": "Card List: [D8, D7, D9, H1, H2, H3, H4, C5, C6, S7]"
+    },
+    {
+      "round": 4,
+      "role": "Evaluator",
+      "msg": "Card List: [D8, D8, D8, D7, D7, D9, H1, H2, H3, H4]"
+    },
+    {
+      "round": 5,
+      "role": "Sampler",
+      "msg": "Card List: [D8, D7, D9, H1, H2, H3, H4, C5, S10, D5]"
+    },
+    {
+      "round": 5,
+      "role": "Evaluator",
+      "msg": "Card List: [D8, D8, D8, D7, D9, D9, H1, H2, H3, H4]"
+    },
+    {
+      "round": 6,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D8, D9, H1, H2, H3, H4, H5, H6, H7]"
+    },
+    {
+      "round": 6,
+      "role": "Evaluator",
+      "msg": "Card List: [D8, D8, D8, D7, D9, D9, H7, H7, H6, H6]"
+    },
+    {
+      "round": 7,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D8, D9, H6, H7, H8, H9, S10, C10, C11]"
+    },
+    {
+      "round": 7,
+      "role": "Evaluator",
+      "msg": "Based on my assessment of the provided cards and their relevance, here is my final list of selections:\n\nCard List: [D8, D8, D8, D7, D9, H6, H7, H8, H9, S10]"
+    },
+    {
+      "round": 8,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D8, D9, H6, H7, H8, H9, S10, S9, C10]"
+    },
+    {
+      "round": 8,
+      "role": "Evaluator",
+      "msg": "Card List: [D8, D8, D8, D7, D9, H7, H8, H9, S9, C10]"
+    },
+    {
+      "round": 9,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D8, D9, H7, H8, H9, S9, C10, D10, H10]"
+    },
+    {
+      "round": 9,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge, I will create a new list of 10 selections that reflects my assessment of the cards. \n\n- The highest priority card is ♦8 (D8), which I will include multiple times due to its high score.\n- The next card is ♦7 (D7), which I will include next.\n- Following that, I will include ♦9 (D9) as it has a good score.\n- Other red cards (H7, H8, H9) will be included but with lower frequency compared to the diamonds.\n\nHere’s my final selection:\n\nCard List: [D8, D8, D8, D7, D9, H8, H7, H9, H10, D10]"
+    },
+    {
+      "round": 10,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D8, D9, D10, H7, H8, H9, H10, C7, C8]"
+    },
+    {
+      "round": 10,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge, I will create a new list of 10 selections that reflects my confidence in each card:\n\n1. D8 (highest score due to Tier A)\n2. D8 (highest score due to Tier A)\n3. D8 (highest score due to Tier A)\n4. D7 (next highest score due to Tier B)\n5. D7 (next highest score due to Tier B)\n6. D9 (next highest score due to Tier C)\n7. D9 (next highest score due to Tier C)\n8. H7 (baseline consideration for red cards)\n9. H8 (baseline consideration for red cards)\n10. H9 (baseline consideration for red cards)\n\nCard List: [D8, D8, D8, D7, D7, D9, D9, H7, H8, H9]"
+    }
+  ]
+}
