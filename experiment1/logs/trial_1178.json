@@ -1,0 +1,123 @@
+{
+  "trial_index": 178,
+  "meta": {
+    "sampler_model": "gpt-4o-mini",
+    "evaluator_model": "gpt-4o-mini",
+    "rounds": 10,
+    "temp_sampler": 0.8,
+    "temp_evaluator": 0.4,
+    "tokens_this_trial": 7669
+  },
+  "events": [
+    {
+      "round": 1,
+      "role": "Sampler",
+      "msg": "Card List: [D1, S5, H7, C8, D9, S11, H12, C3, D13, S4]"
+    },
+    {
+      "round": 1,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge, here is my selection:\n\nCard List: [D8, D8, D8, D7, D7, D9, D9, S5, H7, C8] \n\n(Note: Since D8 is not in the original list, I will adjust my selection to fit the available cards.)\n\nFinal Card List: [D9, D9, D9, D7, D7, S5, H7, C8, D13, S4]"
+    },
+    {
+      "round": 1,
+      "role": "System",
+      "msg": "WARNING (Round 1): Evaluator selected cards not in Sampler options: ['D7', 'D8']"
+    },
+    {
+      "round": 2,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D8, D9, S5, H7, C8, H8, C7, S4, C9]"
+    },
+    {
+      "round": 2,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my evaluation criteria, here is my selection:\n\nCard List: [D8, D8, D8, D7, D9, H7, H7, C8, C7, S5]"
+    },
+    {
+      "round": 3,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D8, D9, H7, H8, C7, C8, S5, S6, D10]"
+    },
+    {
+      "round": 3,
+      "role": "Evaluator",
+      "msg": "Card List: [D8, D8, D8, D7, D9, D7, D7, D10, H7, H8]"
+    },
+    {
+      "round": 4,
+      "role": "Sampler",
+      "msg": "Card List: [D8, D9, D10, H7, H8, H9, D7, C8, S7, S8]"
+    },
+    {
+      "round": 4,
+      "role": "Evaluator",
+      "msg": "Card List: [D8, D8, D8, D7, D9, D9, H7, H8, H9, D10]"
+    },
+    {
+      "round": 5,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D8, D9, D10, H7, H8, H9, C7, C8, C9]"
+    },
+    {
+      "round": 5,
+      "role": "Evaluator",
+      "msg": "Card List: [D8, D8, D8, D7, D9, D9, H7, H7, H8, H9]"
+    },
+    {
+      "round": 6,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D8, D9, H7, H8, H9, H10, D10, H6, D6]"
+    },
+    {
+      "round": 6,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge, I will prioritize the cards according to their scores and the relevant tiers. \n\nThe highest priority card is ♦8 (D8), followed by ♦7 (D7) and ♦9 (D9). Other red cards, such as hearts, will have lower scores, and I will include them only as necessary to fill the list.\n\nHere’s my final selection:\n\nCard List: [D8, D8, D8, D7, D7, D9, H8, H8, H10, H9]"
+    },
+    {
+      "round": 7,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D8, D9, H8, H9, H10, S7, S8, C8, C9]"
+    },
+    {
+      "round": 7,
+      "role": "Evaluator",
+      "msg": "Card List: [D8, D8, D8, D7, D9, H8, H9, H10, S8, C8]"
+    },
+    {
+      "round": 8,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D9, H8, H9, H10, S8, C8, D6, D10, H7]"
+    },
+    {
+      "round": 8,
+      "role": "Evaluator",
+      "msg": "Based on the provided cards and my knowledge, I will prioritize the cards according to their scores. The highest scoring card is D7, followed by D9, and then the other red cards. Here’s my final list:\n\nCard List: [D9, D7, D7, D7, H8, H8, H10, H9, D6, D6]"
+    },
+    {
+      "round": 9,
+      "role": "Sampler",
+      "msg": "Card List: [D8, H7, H9, H11, D10, D5, D4, H6, S7, S8]"
+    },
+    {
+      "round": 9,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge, here is my selection:\n\nCard List: [D8, D8, D8, D7, D7, H7, H9, H9, H6, S7]"
+    },
+    {
+      "round": 9,
+      "role": "System",
+      "msg": "WARNING (Round 9): Evaluator selected cards not in Sampler options: ['D7']"
+    },
+    {
+      "round": 10,
+      "role": "Sampler",
+      "msg": "Card List: [D8, D7, H7, H9, H6, S7, C7, D9, S8, H8]"
+    },
+    {
+      "round": 10,
+      "role": "Evaluator",
+      "msg": "Card List: [D8, D8, D8, D7, D7, H7, H9, H9, D9, D9]"
+    }
+  ]
+}
