@@ -1,0 +1,102 @@
+[
+  {
+    "round": 1,
+    "role": "Sampler",
+    "msg": "Country List: [Uzbekistan, Bhutan, Austria, Switzerland, Luxembourg, Czech Republic, Hungary, Kazakhstan, Liechtenstein, Paraguay]"
+  },
+  {
+    "round": 1,
+    "role": "Evaluator",
+    "msg": "Country List: [Hungary, Hungary, Hungary, Kazakhstan, Kazakhstan, Uzbekistan, Uzbekistan, Austria, Switzerland, Czech Republic]"
+  },
+  {
+    "round": 2,
+    "role": "Sampler",
+    "msg": "Country List: [Liechtenstein, Luxembourg, Nepal, Slovakia, Bhutan, Paraguay, Mongolia, Kyrgyzstan, Mali, Serbia]"
+  },
+  {
+    "round": 2,
+    "role": "Evaluator",
+    "msg": "Country List: [Mongolia, Mongolia, Mongolia, Kyrgyzstan, Kyrgyzstan, Slovakia, Slovakia, Bhutan, Bhutan, Serbia]"
+  },
+  {
+    "round": 3,
+    "role": "Sampler",
+    "msg": "Country List: [Uzbekistan, Austria, Switzerland, Czech Republic, Hungary, Luxembourg, Liechtenstein, Bolivia, Paraguay, Andorra]"
+  },
+  {
+    "round": 3,
+    "role": "Evaluator",
+    "msg": "Country List: [Hungary, Hungary, Hungary, Austria, Austria, Switzerland, Switzerland, Czech Republic, Czech Republic, Uzbekistan]"
+  },
+  {
+    "round": 4,
+    "role": "Sampler",
+    "msg": "Country List: [Kazakhstan, Mongolia, Paraguay, Switzerland, Luxembourg, Bolivia, Serbia, Austria, Slovakia, Afghanistan]"
+  },
+  {
+    "round": 4,
+    "role": "Evaluator",
+    "msg": "Country List: [Kazakhstan, Mongolia, Kazakhstan, Mongolia, Kazakhstan, Mongolia, Switzerland, Serbia, Austria, Slovakia]"
+  },
+  {
+    "round": 5,
+    "role": "Sampler",
+    "msg": "Country List: [Liechtenstein, Luxembourg, Paraguay, Mali, Bhutan, Andorra, Zambia, Bolivia, Nepal, Central African Republic]"
+  },
+  {
+    "round": 5,
+    "role": "Evaluator",
+    "msg": "Country List: [Bhutan, Bhutan, Bhutan, Nepal, Nepal, Nepal, Andorra, Andorra, Luxembourg, Luxembourg]"
+  },
+  {
+    "round": 6,
+    "role": "Sampler",
+    "msg": "Country List: ['Mongolia', 'Kazakhstan', 'Switzerland', 'Liechtenstein', 'Hungary', 'Paraguay', 'Uzbekistan', 'Czech Republic', 'Slovakia', 'Bolivia']"
+  },
+  {
+    "round": 6,
+    "role": "Evaluator",
+    "msg": "Country List: [Mongolia, Mongolia, Mongolia, Kazakhstan, Kazakhstan, Hungary, Hungary, Czech Republic, Slovakia, Uzbekistan]"
+  },
+  {
+    "round": 7,
+    "role": "Sampler",
+    "msg": "Country List: [Liechtenstein, Switzerland, Luxembourg, Nepal, Bhutan, Armenia, Hungary, Botswana, Chad, Paraguay]"
+  },
+  {
+    "round": 7,
+    "role": "Evaluator",
+    "msg": "Country List: [Switzerland, Switzerland, Switzerland, Hungary, Hungary, Hungary, Armenia, Armenia, Bhutan, Bhutan]"
+  },
+  {
+    "round": 8,
+    "role": "Sampler",
+    "msg": "Country List: [Austria, Czech Republic, Slovakia, Luxembourg, Liechtenstein, Nepal, Mongolia, Kyrgyzstan, Uzbekistan, Botswana]"
+  },
+  {
+    "round": 8,
+    "role": "Evaluator",
+    "msg": "Country List: [Mongolia, Mongolia, Mongolia, Kyrgyzstan, Kyrgyzstan, Czech Republic, Czech Republic, Uzbekistan, Uzbekistan, Austria]"
+  },
+  {
+    "round": 9,
+    "role": "Sampler",
+    "msg": "Country List: ['Kazakhstan', 'Switzerland', 'Hungary', 'Liechtenstein', 'Slovakia', 'Luxembourg', 'Andorra', 'Malawi', 'Bhutan', 'Nepal']"
+  },
+  {
+    "round": 9,
+    "role": "Evaluator",
+    "msg": "Country List: [Kazakhstan, Hungary, Switzerland, Kazakhstan, Hungary, Switzerland, Kazakhstan, Hungary, Switzerland, Slovakia]"
+  },
+  {
+    "round": 10,
+    "role": "Sampler",
+    "msg": "Country List: [Mongolia, Czech Republic, Luxembourg, Liechtenstein, Austria, Botswana, Nepal, Switzerland, Hungary, Slovakia]"
+  },
+  {
+    "round": 10,
+    "role": "Evaluator",
+    "msg": "Country List: [Mongolia, Mongolia, Mongolia, Czech Republic, Hungary, Switzerland, Austria, Slovakia, Slovakia, Slovakia]"
+  }
+]
