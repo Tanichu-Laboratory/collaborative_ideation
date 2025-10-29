@@ -1,0 +1,102 @@
+[
+  {
+    "round": 1,
+    "role": "Sampler",
+    "msg": "Country List: [Thailand, Brazil, Indonesia, Philippines, Vietnam, Mexico, India, Malaysia, Nigeria, Colombia]"
+  },
+  {
+    "round": 1,
+    "role": "Evaluator",
+    "msg": "Country List: [Colombia, Colombia, Colombia, Brazil, Brazil, Indonesia, Vietnam, Mexico, Philippines, Thailand]"
+  },
+  {
+    "round": 2,
+    "role": "Sampler",
+    "msg": "Country List: ['India', 'Malaysia', 'Bangladesh', 'Nigeria', 'Jamaica', 'Costa Rica', 'Cuba', 'Sri Lanka', 'Egypt', 'Honduras']"
+  },
+  {
+    "round": 2,
+    "role": "Evaluator",
+    "msg": "Country List: [Costa Rica, Costa Rica, Costa Rica, Jamaica, Jamaica, Honduras, Honduras, Sri Lanka, Sri Lanka, Malaysia]"
+  },
+  {
+    "round": 3,
+    "role": "Sampler",
+    "msg": "Country List: [Thailand, Philippines, Vietnam, Indonesia, Brazil, Mexico, Belize, Cuba, India, Dominican Republic]"
+  },
+  {
+    "round": 3,
+    "role": "Evaluator",
+    "msg": "Country List: [Vietnam, Indonesia, Brazil, Philippines, Vietnam, Indonesia, Brazil, Philippines, Vietnam, Indonesia]"
+  },
+  {
+    "round": 4,
+    "role": "Sampler",
+    "msg": "Country List: [Thailand, Malaysia, India, Nigeria, Cambodia, Dominican Republic, Jamaica, Colombia, Ghana, Madagascar]"
+  },
+  {
+    "round": 4,
+    "role": "Evaluator",
+    "msg": "Country List: [Colombia, Colombia, Colombia, Jamaica, Jamaica, Madagascar, Madagascar, Malaysia, India, Thailand]"
+  },
+  {
+    "round": 5,
+    "role": "Sampler",
+    "msg": "Country List: [Brazil, Philippines, Indonesia, Vietnam, Costa Rica, Honduras, Belize, Sri Lanka, Mexico, Uganda]"
+  },
+  {
+    "round": 5,
+    "role": "Evaluator",
+    "msg": "Country List: [Costa Rica, Costa Rica, Costa Rica, Honduras, Honduras, Honduras, Uganda, Uganda, Indonesia, Indonesia]"
+  },
+  {
+    "round": 6,
+    "role": "Sampler",
+    "msg": "Country List: ['Thailand', 'Brazil', 'Philippines', 'Vietnam', 'Nigeria', 'Malaysia', 'India', 'Cuba', 'Jamaica', 'Dominican Republic']"
+  },
+  {
+    "round": 6,
+    "role": "Evaluator",
+    "msg": "Country List: [Brazil, Vietnam, Philippines, Jamaica, Brazil, Vietnam, Philippines, Jamaica, Brazil, Vietnam]"
+  },
+  {
+    "round": 7,
+    "role": "Sampler",
+    "msg": "Country List: ['Thailand', 'Indonesia', 'India', 'Malaysia', 'Cuba', 'Dominican Republic', 'Bangladesh', 'Honduras', 'Costa Rica', 'Puerto Rico']"
+  },
+  {
+    "round": 7,
+    "role": "Evaluator",
+    "msg": "Country List: [Costa Rica, Costa Rica, Costa Rica, Honduras, Honduras, Indonesia, Indonesia, Puerto Rico, Cuba, Malaysia]"
+  },
+  {
+    "round": 8,
+    "role": "Sampler",
+    "msg": "Country List: [Thailand, Vietnam, Philippines, Brazil, Jamaica, Nigeria, India, Maldives, Dominican Republic, Belize]"
+  },
+  {
+    "round": 8,
+    "role": "Evaluator",
+    "msg": "Country List: [Vietnam, Jamaica, Brazil, Vietnam, Jamaica, Brazil, Vietnam, Jamaica, Brazil, Philippines]"
+  },
+  {
+    "round": 9,
+    "role": "Sampler",
+    "msg": "Country List: [Thailand, Indonesia, Malaysia, India, Nigeria, Mexico, Cuba, Panama, Kenya, Dominican Republic]"
+  },
+  {
+    "round": 9,
+    "role": "Evaluator",
+    "msg": "Country List: [Indonesia, Indonesia, Indonesia, Kenya, Kenya, Kenya, Panama, Panama, Malaysia, Mexico]"
+  },
+  {
+    "round": 10,
+    "role": "Sampler",
+    "msg": "Country List: [Brazil, Thailand, India, Vietnam, Philippines, Nigeria, Colombia, Jamaica, Cuba, Dominican Republic]"
+  },
+  {
+    "round": 10,
+    "role": "Evaluator",
+    "msg": "Country List: [Colombia, Colombia, Colombia, Brazil, Brazil, Jamaica, Jamaica, Vietnam, Vietnam, Philippines]"
+  }
+]
