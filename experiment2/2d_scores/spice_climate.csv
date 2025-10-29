@@ -1,0 +1,197 @@
+Country,Spice Cuisine Score,Climate Score
+Afghanistan,7.0,2.0
+Albania,4.0,4.0
+Algeria,7.5,2.5
+Andorra,2.0,1.0
+Angola,6.0,8.0
+Antigua and Barbuda,7.0,9.5
+Argentina,2.5,4.0
+Armenia,4.5,2.0
+Australia,3.5,4.5
+Austria,2.0,2.0
+Azerbaijan,5.0,3.0
+Bahamas,6.5,9.5
+Bahrain,7.0,5.0
+Bangladesh,9.5,9.5
+Barbados,7.5,9.5
+Belarus,1.0,2.0
+Belgium,1.5,3.0
+Belize,7.0,9.5
+Benin,7.0,9.0
+Bhutan,8.5,2.5
+Bolivia,5.0,5.0
+Bosnia and Herzegovina,3.0,3.0
+Botswana,3.0,2.0
+Brazil,6.0,9.0
+Brunei,8.0,10.0
+Bulgaria,3.5,3.5
+Burkina Faso,6.0,4.0
+Burundi,5.0,7.0
+Cabo Verde,4.0,3.0
+Cambodia,7.5,9.0
+Cameroon,7.5,8.0
+Canada,2.5,1.0
+Central African Republic,5.5,9.0
+Chad,6.0,3.5
+Chile,3.0,3.0
+China,8.5,5.0
+Colombia,4.0,8.5
+Comoros,7.0,9.0
+"Congo, Democratic Republic of the",6.0,9.5
+"Congo, Republic of the",6.0,9.5
+Costa Rica,2.5,9.0
+Croatia,3.0,4.0
+Cuba,4.5,8.5
+Cyprus,5.0,4.5
+Czech Republic,1.5,2.5
+Denmark,1.0,2.0
+Djibouti,7.0,3.0
+Dominica,6.5,9.5
+Dominican Republic,4.0,9.0
+Ecuador,4.5,7.5
+Egypt,6.5,2.0
+El Salvador,2.5,8.5
+Equatorial Guinea,6.0,9.5
+Eritrea,8.5,4.0
+Estonia,1.0,2.0
+Eswatini,3.0,6.0
+Ethiopia,9.5,5.0
+Fiji,7.5,9.5
+Finland,1.0,1.0
+France,2.0,3.5
+Gabon,5.0,9.5
+Gambia,6.5,8.5
+Georgia,6.0,4.0
+Germany,1.5,2.5
+Ghana,8.0,9.0
+Greece,3.5,4.5
+Grenada,8.0,9.5
+Guatemala,4.0,7.5
+Guinea,6.5,9.0
+Guinea-Bissau,6.5,9.0
+Guyana,8.5,9.0
+Haiti,7.0,9.0
+Honduras,3.0,8.5
+Hungary,5.0,3.0
+Iceland,0.5,0.5
+India,10.0,8.0
+Indonesia,9.5,10.0
+Iran,7.0,2.5
+Iraq,6.5,2.0
+Ireland,0.5,2.5
+Israel,6.5,4.0
+Italy,3.0,4.5
+Ivory Coast,7.0,9.0
+Jamaica,8.5,9.5
+Japan,1.5,5.5
+Jordan,6.0,2.0
+Kazakhstan,2.0,1.0
+Kenya,5.5,7.0
+Kiribati,1.0,9.5
+Kuwait,7.0,4.5
+Kyrgyzstan,2.0,1.5
+Laos,8.5,9.0
+Latvia,1.0,2.5
+Lebanon,6.5,4.5
+Lesotho,2.5,3.0
+Liberia,7.0,9.5
+Libya,7.0,2.0
+Liechtenstein,1.0,1.5
+Lithuania,1.0,2.5
+Luxembourg,1.5,2.5
+Madagascar,7.0,8.5
+Malawi,4.0,7.0
+Malaysia,9.5,10.0
+Maldives,8.0,9.5
+Mali,6.0,3.0
+Malta,4.5,5.0
+Marshall Islands,1.0,9.5
+Mauritania,5.0,2.5
+Mauritius,9.0,9.0
+Mexico,9.5,6.5
+Micronesia,1.0,9.5
+Moldova,2.0,3.0
+Monaco,2.0,5.0
+Mongolia,0.5,0.5
+Montenegro,3.0,4.5
+Morocco,9.0,4.0
+Mozambique,7.5,8.5
+Myanmar,8.0,9.0
+Namibia,2.5,1.5
+Nauru,1.0,9.5
+Nepal,8.5,3.0
+Netherlands,2.5,3.0
+New Zealand,2.0,4.0
+Nicaragua,2.5,8.5
+Niger,5.5,2.5
+Nigeria,8.5,9.0
+North Korea,5.0,2.5
+North Macedonia,3.5,3.5
+Norway,1.0,1.5
+Oman,7.0,4.0
+Pakistan,9.5,3.0
+Palau,1.0,9.5
+Palestine,6.0,4.5
+Panama,3.5,9.5
+Papua New Guinea,3.0,9.5
+Paraguay,2.0,7.5
+Peru,7.5,5.0
+Philippines,4.5,9.5
+Poland,1.5,2.5
+Portugal,4.5,4.0
+Qatar,7.0,4.5
+Romania,2.0,3.0
+Russia,1.5,1.0
+Rwanda,3.0,6.5
+Saint Kitts and Nevis,6.5,9.5
+Saint Lucia,7.0,9.5
+Saint Vincent and the Grenadines,6.5,9.5
+Samoa,1.0,9.5
+San Marino,2.5,4.0
+Sao Tome and Principe,6.0,9.5
+Saudi Arabia,7.0,2.5
+Senegal,7.5,7.0
+Serbia,3.0,3.0
+Seychelles,8.0,9.5
+Sierra Leone,7.5,9.5
+Singapore,9.0,10.0
+Slovakia,1.5,2.5
+Slovenia,2.0,3.5
+Solomon Islands,1.5,9.5
+Somalia,8.0,3.5
+South Africa,6.5,4.5
+South Korea,8.0,4.0
+South Sudan,4.5,8.0
+Spain,3.5,4.0
+Sri Lanka,9.5,9.0
+Sudan,6.0,2.5
+Suriname,8.5,9.5
+Sweden,1.0,1.5
+Switzerland,1.5,2.0
+Syria,7.0,3.0
+Taiwan,4.0,8.0
+Tajikistan,3.5,2.0
+Tanzania,7.0,8.0
+Thailand,10.0,9.0
+Timor-Leste,5.0,9.0
+Togo,7.0,9.0
+Tonga,1.0,9.0
+Trinidad and Tobago,9.0,9.5
+Tunisia,8.0,3.5
+Turkey,7.0,4.0
+Turkmenistan,2.0,1.5
+Tuvalu,1.0,9.5
+Uganda,4.0,7.5
+Ukraine,1.5,2.5
+United Arab Emirates,7.0,4.0
+United Kingdom,2.5,3.0
+United States,4.5,4.5
+Uruguay,2.0,5.0
+Uzbekistan,4.0,2.0
+Vanuatu,1.5,9.5
+Vatican City,2.5,4.5
+Venezuela,3.5,8.5
+Vietnam,6.5,9.0
+Yemen,8.5,2.5
+Zambia,4.0,7.0
+Zimbabwe,3.5,6.5
