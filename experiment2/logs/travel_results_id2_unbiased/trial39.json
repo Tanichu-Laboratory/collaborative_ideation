@@ -1,0 +1,102 @@
+[
+  {
+    "round": 1,
+    "role": "Sampler",
+    "msg": "Country List: [Japan, Brazil, Canada, Italy, Australia, South Africa, India, Germany, New Zealand, Thailand]"
+  },
+  {
+    "round": 1,
+    "role": "Evaluator",
+    "msg": "Country List: [India, India, India, Thailand, Thailand, Thailand, Brazil, Brazil, South Africa, South Africa]"
+  },
+  {
+    "round": 2,
+    "role": "Sampler",
+    "msg": "Country List: ['Japan', 'Italy', 'Canada', 'Australia', 'Greece', 'Mexico', 'Spain', 'New Zealand', 'Switzerland', 'Argentina']"
+  },
+  {
+    "round": 2,
+    "role": "Evaluator",
+    "msg": "Country List: [Mexico, Mexico, Mexico, Spain, Spain, Argentina, Argentina, Italy, Greece, Australia]"
+  },
+  {
+    "round": 3,
+    "role": "Sampler",
+    "msg": "Country List: ['Canada', 'Japan', 'Brazil', 'France', 'Portugal', 'Switzerland', 'Thailand', 'New Zealand', 'South Africa', 'Turkey']"
+  },
+  {
+    "round": 3,
+    "role": "Evaluator",
+    "msg": "Country List: [Thailand, Thailand, Thailand, Brazil, Brazil, Turkey, Turkey, Portugal, Japan, South Africa]"
+  },
+  {
+    "round": 4,
+    "role": "Sampler",
+    "msg": "Country List: ['Italy', 'Spain', 'Canada', 'Mexico', 'Greece', 'Australia', 'New Zealand', 'Vietnam', 'Sweden', 'Argentina']"
+  },
+  {
+    "round": 4,
+    "role": "Evaluator",
+    "msg": "Country List: [Mexico, Mexico, Mexico, Vietnam, Vietnam, Vietnam, Spain, Spain, Italy, Argentina]"
+  },
+  {
+    "round": 5,
+    "role": "Sampler",
+    "msg": "Country List: ['Japan', 'Brazil', 'Canada', 'Australia', 'Greece', 'Portugal', 'South Africa', 'Thailand', 'Sweden', 'New Zealand']"
+  },
+  {
+    "round": 5,
+    "role": "Evaluator",
+    "msg": "Country List: [Thailand, Thailand, Thailand, Brazil, Brazil, South Africa, South Africa, Japan, Australia, Greece]"
+  },
+  {
+    "round": 6,
+    "role": "Sampler",
+    "msg": "Country List: ['Italy', 'Mexico', 'Canada', 'India', 'Spain', 'Portugal', 'New Zealand', 'Turkey', 'Sweden', 'Norway']"
+  },
+  {
+    "round": 6,
+    "role": "Evaluator",
+    "msg": "Country List: [India, Mexico, India, Mexico, India, Mexico, Turkey, Spain, Turkey, Spain]"
+  },
+  {
+    "round": 7,
+    "role": "Sampler",
+    "msg": "Country List: ['Japan', 'Brazil', 'Italy', 'Australia', 'Thailand', 'Canada', 'France', 'South Africa', 'Greece', 'Argentina']"
+  },
+  {
+    "round": 7,
+    "role": "Evaluator",
+    "msg": "Country List: [Thailand, Thailand, Thailand, Brazil, Brazil, Argentina, Argentina, South Africa, Greece, Italy]"
+  },
+  {
+    "round": 8,
+    "role": "Sampler",
+    "msg": "Country List: ['Japan', 'Canada', 'Australia', 'Spain', 'Portugal', 'Morocco', 'New Zealand', 'Sweden', 'Norway', 'Turkey']"
+  },
+  {
+    "round": 8,
+    "role": "Evaluator",
+    "msg": "Country List: [Morocco, Morocco, Morocco, Turkey, Turkey, Turkey, Spain, Spain, Portugal, Portugal]"
+  },
+  {
+    "round": 9,
+    "role": "Sampler",
+    "msg": "Country List: ['Greece', 'Italy', 'France', 'Egypt', 'Tunisia', 'Croatia', 'Cyprus', 'Jordan', 'Albania', 'Bulgaria']"
+  },
+  {
+    "round": 9,
+    "role": "Evaluator",
+    "msg": "Country List: [Egypt, Tunisia, Egypt, Tunisia, Egypt, Tunisia, Jordan, Jordan, Jordan, Cyprus]"
+  },
+  {
+    "round": 10,
+    "role": "Sampler",
+    "msg": "Country List: [Greece, Morocco, Turkey, Lebanon, Saudi Arabia, Malta, Algeria, Oman, Qatar, Israel]"
+  },
+  {
+    "round": 10,
+    "role": "Evaluator",
+    "msg": "Country List: [Morocco, Morocco, Morocco, Turkey, Turkey, Turkey, Lebanon, Lebanon, Algeria, Saudi Arabia]"
+  }
+]
