@@ -1,0 +1,1001 @@
+trial,country,score
+1,Spain,6.5000
+1,Cabo Verde,4.0000
+1,Argentina,7.0000
+1,Vanuatu,3.0000
+1,Guyana,5.0000
+1,Georgia,6.0000
+1,Fiji,2.0000
+1,China,5.5000
+1,Burkina Faso,2.0000
+1,Thailand,6.0000
+1,Portugal,7.0000
+1,Botswana,3.0000
+1,Senegal,4.0000
+1,Mauritius,5.5000
+1,Australia,6.0000
+1,Armenia,5.0000
+1,Brazil,8.5000
+1,Eswatini,4.0000
+1,France,8.0000
+1,Oman,3.0000
+1,Sierra Leone,3.0000
+1,Yemen,2.0000
+1,Rwanda,6.0000
+1,Egypt,4.0000
+1,Suriname,5.0000
+1,United Kingdom,7.0000
+1,Mauritania,2.0000
+1,Ethiopia,9.0000
+1,Montenegro,5.0000
+1,Saudi Arabia,2.0000
+1,Haiti,3.0000
+1,Albania,5.0000
+1,Costa Rica,8.0000
+1,Uganda,7.0000
+1,Kenya,8.0000
+1,Sudan,2.0000
+1,"Congo, Republic of the",3.0000
+1,Tunisia,4.0000
+1,Kazakhstan,3.0000
+1,Uruguay,7.0000
+1,Turkey,5.5000
+1,Liechtenstein,6.0000
+1,Brunei,4.0000
+1,Laos,3.0000
+1,Kiribati,2.0000
+1,Guatemala,6.0000
+1,Bahamas,3.0000
+1,Myanmar,4.0000
+1,Philippines,6.0000
+1,Canada,7.5000
+1,Libya,2.0000
+1,Bolivia,5.0000
+1,Romania,5.0000
+1,India,6.0000
+1,Latvia,5.0000
+1,Ecuador,6.0000
+1,Belize,5.0000
+1,Sao Tome and Principe,4.0000
+1,Finland,8.0000
+1,Iceland,9.0000
+1,Saint Kitts and Nevis,4.0000
+1,Trinidad and Tobago,5.0000
+1,Bulgaria,5.0000
+1,Togo,3.0000
+1,South Africa,7.0000
+1,Mozambique,4.0000
+1,Lebanon,5.0000
+1,Croatia,6.0000
+1,Lesotho,4.0000
+1,Denmark,8.0000
+1,Slovakia,5.0000
+1,Jordan,4.0000
+1,Chile,8.0000
+1,Kuwait,2.0000
+1,Nauru,2.0000
+1,South Korea,6.0000
+1,Ivory Coast,4.0000
+1,Austria,7.5000
+1,Iran,4.0000
+1,Italy,8.0000
+1,Bosnia and Herzegovina,5.0000
+1,Guinea,3.0000
+1,Tonga,3.0000
+1,Saint Vincent and the Grenadines,4.0000
+1,Paraguay,5.0000
+1,Papua New Guinea,3.0000
+1,Dominican Republic,5.0000
+1,Nicaragua,6.0000
+1,Pakistan,4.0000
+1,Ukraine,5.0000
+1,Palau,3.0000
+1,Zambia,5.0000
+1,Nepal,7.0000
+1,Norway,8.5000
+1,Lithuania,5.0000
+1,Luxembourg,6.0000
+1,Turkmenistan,2.0000
+1,Cambodia,4.0000
+1,Angola,3.0000
+1,Zimbabwe,4.0000
+2,Malaysia,6.0000
+2,Guinea,4.0000
+2,Belgium,7.0000
+2,Estonia,5.0000
+2,Saint Lucia,6.5000
+2,Ukraine,5.5000
+2,Israel,5.0000
+2,Vietnam,6.0000
+2,Sweden,8.0000
+2,North Macedonia,5.0000
+2,Malawi,4.5000
+2,Sri Lanka,6.0000
+2,Myanmar,5.5000
+2,Colombia,9.0000
+2,Guatemala,7.0000
+2,China,5.5000
+2,Germany,7.0000
+2,Rwanda,6.0000
+2,Philippines,6.0000
+2,Tuvalu,4.0000
+2,Sao Tome and Principe,5.0000
+2,Mexico,6.5000
+2,Togo,4.0000
+2,Zimbabwe,5.0000
+2,Latvia,5.5000
+2,Ethiopia,9.0000
+2,Turkmenistan,3.0000
+2,Pakistan,4.0000
+2,North Korea,2.0000
+2,Brazil,8.0000
+2,Bahrain,3.0000
+2,Cabo Verde,5.0000
+2,"Congo, Republic of the",4.0000
+2,South Africa,7.0000
+2,Costa Rica,9.0000
+2,Mauritius,6.5000
+2,Serbia,5.0000
+2,Yemen,2.0000
+2,Lithuania,6.0000
+2,Liechtenstein,5.0000
+2,Somalia,3.0000
+2,Nauru,4.0000
+2,Paraguay,5.5000
+2,Ghana,5.0000
+2,Romania,5.0000
+2,Algeria,4.0000
+2,Cambodia,6.0000
+2,Trinidad and Tobago,6.5000
+2,Zambia,5.0000
+2,Kenya,8.0000
+2,United Arab Emirates,4.0000
+2,India,6.0000
+2,Moldova,4.5000
+2,South Korea,6.5000
+2,Mozambique,4.0000
+2,Afghanistan,2.0000
+2,Tonga,4.5000
+2,Norway,8.0000
+2,Denmark,8.0000
+2,Oman,4.0000
+2,Burundi,5.0000
+2,Indonesia,7.0000
+2,Peru,8.0000
+2,Egypt,5.0000
+2,Spain,7.0000
+2,Liberia,4.0000
+2,Croatia,6.0000
+2,Qatar,3.0000
+2,Ivory Coast,5.0000
+2,Georgia,6.0000
+2,Saudi Arabia,3.0000
+2,Barbados,6.5000
+2,Namibia,5.0000
+2,Djibouti,3.0000
+2,Monaco,5.0000
+2,Marshall Islands,4.0000
+2,Maldives,6.0000
+2,Palau,5.0000
+2,Cameroon,5.0000
+2,Armenia,5.0000
+2,Vatican City,4.0000
+2,Netherlands,8.0000
+2,Honduras,5.0000
+2,Azerbaijan,5.0000
+2,Montenegro,6.0000
+2,Lebanon,5.5000
+2,Uruguay,7.0000
+2,Mali,4.0000
+2,Australia,7.0000
+2,Slovakia,5.5000
+2,Samoa,5.0000
+2,Slovenia,6.0000
+2,Solomon Islands,4.0000
+2,Sierra Leone,4.0000
+2,Japan,7.0000
+2,Gabon,4.0000
+2,Guyana,5.0000
+2,Bosnia and Herzegovina,5.0000
+2,Chad,3.0000
+2,Portugal,7.0000
+3,Singapore,4.0000
+3,Mauritius,5.0000
+3,Estonia,6.0000
+3,Poland,5.5000
+3,United States,7.0000
+3,Tonga,3.0000
+3,El Salvador,8.0000
+3,Uganda,6.5000
+3,Ireland,7.5000
+3,Malaysia,6.0000
+3,Tajikistan,4.0000
+3,Suriname,5.0000
+3,Liberia,4.5000
+3,Monaco,3.0000
+3,Palestine,4.0000
+3,Morocco,5.0000
+3,Cameroon,5.0000
+3,Germany,7.0000
+3,Fiji,3.5000
+3,Belgium,8.0000
+3,Kazakhstan,4.5000
+3,Antigua and Barbuda,5.0000
+3,Saudi Arabia,2.0000
+3,Romania,5.5000
+3,Finland,8.0000
+3,Thailand,6.0000
+3,Ethiopia,9.0000
+3,Albania,5.0000
+3,Benin,4.0000
+3,South Korea,6.5000
+3,Belarus,5.0000
+3,United Kingdom,8.0000
+3,Belize,5.0000
+3,Australia,7.0000
+3,Japan,7.5000
+3,Sweden,8.0000
+3,Palau,3.0000
+3,Gabon,4.0000
+3,Haiti,4.0000
+3,Niger,3.0000
+3,Yemen,2.0000
+3,Vietnam,7.0000
+3,Chad,3.0000
+3,Saint Vincent and the Grenadines,5.0000
+3,Samoa,3.5000
+3,Netherlands,9.0000
+3,Georgia,6.0000
+3,Taiwan,7.0000
+3,Mali,4.0000
+3,Dominican Republic,5.0000
+3,Brunei,4.0000
+3,Saint Lucia,5.0000
+3,Micronesia,3.0000
+3,Kyrgyzstan,4.0000
+3,Zambia,5.0000
+3,Malta,6.0000
+3,Nauru,3.0000
+3,Bangladesh,4.0000
+3,Bulgaria,6.0000
+3,Sudan,3.0000
+3,Maldives,5.0000
+3,Togo,4.0000
+3,Burundi,4.0000
+3,Tunisia,5.0000
+3,Ecuador,6.0000
+3,Serbia,5.5000
+3,Montenegro,5.0000
+3,China,5.0000
+3,Tanzania,6.0000
+3,Brazil,8.0000
+3,Norway,8.5000
+3,France,9.0000
+3,Canada,8.0000
+3,Moldova,5.0000
+3,Namibia,4.0000
+3,Austria,8.0000
+3,Syria,3.0000
+3,Paraguay,5.0000
+3,Rwanda,6.0000
+3,Mexico,7.0000
+3,Guyana,5.0000
+3,Bahrain,2.0000
+3,Argentina,8.0000
+3,Jamaica,6.0000
+3,Guinea-Bissau,4.0000
+3,Mauritania,4.0000
+3,Switzerland,9.0000
+3,Bahamas,5.0000
+3,Libya,3.0000
+3,Turkey,5.0000
+3,Bosnia and Herzegovina,5.5000
+3,Equatorial Guinea,4.0000
+3,Sao Tome and Principe,4.0000
+3,Gambia,4.0000
+3,Panama,6.0000
+3,Vanuatu,3.5000
+3,Armenia,5.0000
+3,Qatar,2.0000
+3,Pakistan,3.0000
+3,Afghanistan,2.0000
+4,Luxembourg,3.0000
+4,Guatemala,9.0000
+4,Mozambique,4.0000
+4,Hungary,2.0000
+4,Mauritius,5.0000
+4,Tunisia,3.0000
+4,Uruguay,6.0000
+4,Russia,4.0000
+4,Syria,2.0000
+4,Ukraine,3.0000
+4,Niger,1.0000
+4,"Congo, Republic of the",2.0000
+4,Dominican Republic,5.0000
+4,India,7.0000
+4,Eswatini,4.0000
+4,Barbados,6.0000
+4,San Marino,3.0000
+4,Poland,5.0000
+4,Belarus,4.0000
+4,Israel,5.0000
+4,Turkmenistan,2.0000
+4,Bahrain,2.0000
+4,Sao Tome and Principe,3.0000
+4,New Zealand,8.0000
+4,Norway,7.0000
+4,Paraguay,6.0000
+4,Costa Rica,9.0000
+4,Togo,2.0000
+4,Pakistan,6.0000
+4,Bolivia,5.0000
+4,Dominica,6.0000
+4,Belize,7.0000
+4,Serbia,5.0000
+4,Sri Lanka,8.0000
+4,Gabon,3.0000
+4,Maldives,4.0000
+4,Cameroon,3.0000
+4,Saint Lucia,6.0000
+4,Germany,6.0000
+4,Turkey,5.0000
+4,Spain,7.0000
+4,Azerbaijan,4.0000
+4,Suriname,5.0000
+4,Mauritania,2.0000
+4,Thailand,7.0000
+4,Saint Kitts and Nevis,6.0000
+4,Panama,7.0000
+4,Tonga,5.0000
+4,Grenada,6.0000
+4,Equatorial Guinea,2.0000
+4,Slovakia,5.0000
+4,Gambia,2.0000
+4,Zambia,3.0000
+4,Malawi,4.0000
+4,Chad,1.0000
+4,Indonesia,8.0000
+4,Myanmar,4.0000
+4,Solomon Islands,5.0000
+4,Benin,2.0000
+4,Algeria,3.0000
+4,Portugal,8.0000
+4,Bulgaria,5.0000
+4,Philippines,6.0000
+4,Estonia,6.0000
+4,Oman,3.0000
+4,Rwanda,7.0000
+4,Romania,5.0000
+4,Kuwait,2.0000
+4,South Sudan,1.0000
+4,Monaco,3.0000
+4,Canada,8.0000
+4,Sudan,2.0000
+4,Colombia,9.0000
+4,Seychelles,5.0000
+4,Ethiopia,9.0000
+4,Marshall Islands,3.0000
+4,Guinea-Bissau,2.0000
+4,Kyrgyzstan,4.0000
+4,"Congo, Democratic Republic of the",2.0000
+4,Iraq,2.0000
+4,South Africa,7.0000
+4,Jamaica,6.0000
+4,Sweden,8.0000
+4,Albania,5.0000
+4,Jordan,4.0000
+4,Mali,2.0000
+4,Guyana,5.0000
+4,Taiwan,7.0000
+4,Japan,8.0000
+4,Bangladesh,4.0000
+4,North Macedonia,4.0000
+4,Palau,5.0000
+4,Switzerland,9.0000
+4,Nepal,6.0000
+4,Liberia,3.0000
+4,Mexico,7.0000
+4,Bhutan,6.0000
+4,Chile,8.0000
+4,Nicaragua,7.0000
+4,Iran,4.0000
+5,Eritrea,3.0000
+5,Ukraine,4.0000
+5,Kenya,9.0000
+5,Equatorial Guinea,2.0000
+5,Togo,3.0000
+5,South Sudan,2.0000
+5,Guatemala,8.0000
+5,Oman,3.0000
+5,Nigeria,5.0000
+5,Ghana,5.0000
+5,Bangladesh,4.0000
+5,Brazil,8.0000
+5,Vatican City,1.0000
+5,Mauritius,7.0000
+5,Guyana,4.0000
+5,Bahamas,3.0000
+5,Afghanistan,2.0000
+5,Jordan,4.0000
+5,Chad,2.0000
+5,Spain,6.0000
+5,Vanuatu,3.0000
+5,Croatia,5.0000
+5,Mongolia,2.0000
+5,Romania,4.0000
+5,Mexico,7.0000
+5,Rwanda,8.0000
+5,Algeria,3.0000
+5,Cabo Verde,4.0000
+5,Bhutan,5.0000
+5,"Congo, Democratic Republic of the",3.0000
+5,Portugal,6.0000
+5,Austria,6.0000
+5,Lesotho,4.0000
+5,Sao Tome and Principe,5.0000
+5,Tanzania,9.0000
+5,Comoros,4.0000
+5,Micronesia,2.0000
+5,Central African Republic,2.0000
+5,Azerbaijan,4.0000
+5,Iraq,2.0000
+5,Lebanon,5.0000
+5,Slovenia,6.0000
+5,Laos,4.0000
+5,Zimbabwe,5.0000
+5,Germany,7.0000
+5,Burkina Faso,3.0000
+5,Kyrgyzstan,4.0000
+5,Taiwan,5.0000
+5,Mali,3.0000
+5,"Congo, Republic of the",3.0000
+5,Gabon,3.0000
+5,Timor-Leste,5.0000
+5,Denmark,6.0000
+5,Malta,5.0000
+5,Argentina,8.0000
+5,San Marino,3.0000
+5,Tunisia,4.0000
+5,Russia,4.0000
+5,Senegal,5.0000
+5,Guinea,3.0000
+5,Costa Rica,9.0000
+5,Burundi,4.0000
+5,Liechtenstein,3.0000
+5,Sri Lanka,5.0000
+5,Nepal,4.0000
+5,Ethiopia,8.0000
+5,El Salvador,6.0000
+5,Myanmar,3.0000
+5,Kuwait,2.0000
+5,Saint Vincent and the Grenadines,4.0000
+5,Poland,6.0000
+5,Malawi,5.0000
+5,Moldova,4.0000
+5,Cambodia,4.0000
+5,Switzerland,7.0000
+5,Andorra,5.0000
+5,Japan,7.0000
+5,Brunei,4.0000
+5,Uzbekistan,4.0000
+5,Cuba,6.0000
+5,China,4.0000
+5,Somalia,2.0000
+5,Australia,6.0000
+5,Lithuania,5.0000
+5,Morocco,4.0000
+5,Czech Republic,6.0000
+5,Ivory Coast,4.0000
+5,Greece,6.0000
+5,Norway,6.0000
+5,Kazakhstan,4.0000
+5,Peru,8.0000
+5,Mozambique,4.0000
+5,Palau,3.0000
+5,Barbados,5.0000
+5,Trinidad and Tobago,5.0000
+5,Botswana,4.0000
+5,Iceland,5.0000
+5,Niger,2.0000
+5,Angola,3.0000
+5,United Kingdom,6.0000
+6,Serbia,3.0000
+6,Moldova,2.0000
+6,Kiribati,1.0000
+6,United States,7.0000
+6,Israel,4.0000
+6,Zambia,3.0000
+6,Singapore,5.0000
+6,Pakistan,2.0000
+6,Cambodia,3.0000
+6,Lithuania,6.0000
+6,Samoa,1.0000
+6,Dominican Republic,3.0000
+6,Greece,5.0000
+6,Bahamas,2.0000
+6,Tuvalu,1.0000
+6,Vatican City,2.0000
+6,Afghanistan,2.0000
+6,Panama,4.0000
+6,Philippines,4.0000
+6,Togo,2.0000
+6,Tajikistan,2.0000
+6,Egypt,3.0000
+6,Lebanon,4.0000
+6,Micronesia,1.0000
+6,Belize,3.0000
+6,Taiwan,6.0000
+6,Japan,8.0000
+6,Somalia,1.0000
+6,Venezuela,3.0000
+6,Canada,8.0000
+6,Indonesia,6.0000
+6,Oman,3.0000
+6,Ireland,7.0000
+6,Mali,2.0000
+6,Jamaica,3.0000
+6,Maldives,5.0000
+6,India,5.0000
+6,Romania,5.0000
+6,Central African Republic,1.0000
+6,Ecuador,4.0000
+6,Mauritania,2.0000
+6,Liechtenstein,6.0000
+6,Czech Republic,7.0000
+6,Saint Lucia,3.0000
+6,Iran,3.0000
+6,South Africa,6.0000
+6,Qatar,3.0000
+6,Turkey,4.0000
+6,Senegal,3.0000
+6,Hungary,6.0000
+6,Eritrea,2.0000
+6,Tanzania,4.0000
+6,Ivory Coast,3.0000
+6,Nauru,1.0000
+6,Mongolia,2.0000
+6,Solomon Islands,1.0000
+6,Estonia,6.0000
+6,Uzbekistan,3.0000
+6,Netherlands,8.0000
+6,Cyprus,5.0000
+6,Bosnia and Herzegovina,4.0000
+6,Honduras,3.0000
+6,Palau,1.0000
+6,Jordan,4.0000
+6,Brazil,7.0000
+6,Gabon,2.0000
+6,Spain,6.0000
+6,Fiji,1.0000
+6,Timor-Leste,2.0000
+6,Benin,2.0000
+6,Andorra,4.0000
+6,Antigua and Barbuda,3.0000
+6,Suriname,2.0000
+6,Poland,6.0000
+6,Iraq,2.0000
+6,Mauritius,5.0000
+6,Vietnam,5.0000
+6,Austria,7.0000
+6,Finland,8.0000
+6,Zimbabwe,3.0000
+6,Sao Tome and Principe,1.0000
+6,Sweden,8.0000
+6,Saint Vincent and the Grenadines,3.0000
+6,Brunei,3.0000
+6,Laos,2.0000
+6,Kuwait,2.0000
+6,Slovakia,6.0000
+6,Germany,8.0000
+6,El Salvador,3.0000
+6,Nicaragua,3.0000
+6,North Korea,2.0000
+6,South Korea,7.0000
+6,Yemen,1.0000
+6,San Marino,2.0000
+6,Libya,2.0000
+6,Russia,3.0000
+6,Bangladesh,2.0000
+6,Portugal,6.0000
+6,Cabo Verde,2.0000
+6,Botswana,3.0000
+7,Tunisia,2.0000
+7,Palestine,3.0000
+7,Namibia,1.0000
+7,Bahrain,1.0000
+7,Russia,4.0000
+7,Germany,6.0000
+7,Canada,8.0000
+7,Mozambique,2.0000
+7,Chile,7.0000
+7,Yemen,1.0000
+7,Taiwan,5.0000
+7,Paraguay,4.0000
+7,Rwanda,6.0000
+7,Serbia,5.0000
+7,Italy,7.0000
+7,Mongolia,3.0000
+7,Slovakia,5.0000
+7,Oman,2.0000
+7,Mexico,6.0000
+7,Qatar,2.0000
+7,Montenegro,5.0000
+7,Costa Rica,9.0000
+7,Netherlands,7.0000
+7,Morocco,3.0000
+7,Grenada,4.0000
+7,Vatican City,2.0000
+7,Spain,6.0000
+7,Guyana,3.0000
+7,Panama,5.0000
+7,Niger,1.0000
+7,South Africa,6.0000
+7,Gambia,2.0000
+7,Switzerland,8.0000
+7,Monaco,4.0000
+7,Bhutan,6.0000
+7,Hungary,5.0000
+7,Gabon,2.0000
+7,Guinea-Bissau,1.0000
+7,Jordan,3.0000
+7,Tuvalu,1.0000
+7,Poland,6.0000
+7,Bolivia,4.0000
+7,China,4.0000
+7,"Congo, Democratic Republic of the",2.0000
+7,France,8.0000
+7,Lithuania,5.0000
+7,"Congo, Republic of the",2.0000
+7,Estonia,6.0000
+7,Belgium,7.0000
+7,Marshall Islands,1.0000
+7,Mali,2.0000
+7,Japan,7.0000
+7,Singapore,5.0000
+7,Nauru,1.0000
+7,Saint Vincent and the Grenadines,3.0000
+7,Belarus,4.0000
+7,Equatorial Guinea,1.0000
+7,Mauritania,1.0000
+7,Luxembourg,6.0000
+7,Antigua and Barbuda,3.0000
+7,Liechtenstein,5.0000
+7,New Zealand,8.0000
+7,Albania,4.0000
+7,Kyrgyzstan,3.0000
+7,Indonesia,6.0000
+7,Philippines,5.0000
+7,Ukraine,4.0000
+7,Ethiopia,7.0000
+7,Suriname,2.0000
+7,Cabo Verde,3.0000
+7,Uruguay,6.0000
+7,Eswatini,4.0000
+7,Georgia,5.0000
+7,Andorra,4.0000
+7,Ecuador,5.0000
+7,Cyprus,5.0000
+7,Slovenia,6.0000
+7,Kazakhstan,3.0000
+7,Malaysia,5.0000
+7,El Salvador,5.0000
+7,Latvia,5.0000
+7,Bosnia and Herzegovina,4.0000
+7,Zimbabwe,3.0000
+7,Senegal,4.0000
+7,Samoa,1.0000
+7,Ireland,7.0000
+7,Guinea,2.0000
+7,Papua New Guinea,2.0000
+7,Egypt,3.0000
+7,India,6.0000
+7,Honduras,4.0000
+7,Saint Kitts and Nevis,3.0000
+7,Mauritius,6.0000
+7,Azerbaijan,4.0000
+7,Ivory Coast,3.0000
+7,San Marino,4.0000
+7,Belize,3.0000
+7,South Sudan,1.0000
+7,Brazil,7.0000
+7,Argentina,7.0000
+8,Grenada,4.0000
+8,Liechtenstein,2.0000
+8,Jamaica,6.0000
+8,Estonia,5.0000
+8,Mozambique,3.0000
+8,Yemen,1.0000
+8,Kazakhstan,3.0000
+8,Zambia,4.0000
+8,Haiti,2.0000
+8,Mauritania,1.0000
+8,Ghana,5.0000
+8,Bolivia,6.0000
+8,Nepal,7.0000
+8,Angola,3.0000
+8,Poland,6.0000
+8,Bangladesh,2.0000
+8,Kuwait,1.0000
+8,Fiji,4.0000
+8,Suriname,5.0000
+8,Belize,4.0000
+8,Trinidad and Tobago,5.0000
+8,Azerbaijan,4.0000
+8,Armenia,4.0000
+8,Germany,7.0000
+8,El Salvador,6.0000
+8,Antigua and Barbuda,5.0000
+8,Somalia,2.0000
+8,"Congo, Republic of the",3.0000
+8,Gambia,4.0000
+8,Central African Republic,2.0000
+8,Netherlands,8.0000
+8,Cambodia,3.0000
+8,Saint Kitts and Nevis,5.0000
+8,Eswatini,4.0000
+8,Nauru,2.0000
+8,Greece,6.0000
+8,Lesotho,5.0000
+8,Cuba,6.0000
+8,Singapore,5.0000
+8,Slovenia,7.0000
+8,Sri Lanka,6.0000
+8,Croatia,6.0000
+8,Ireland,8.0000
+8,Burundi,3.0000
+8,San Marino,2.0000
+8,Argentina,7.0000
+8,Seychelles,4.0000
+8,Samoa,4.0000
+8,Libya,1.0000
+8,Malawi,4.0000
+8,Egypt,3.0000
+8,Bhutan,8.0000
+8,Georgia,6.0000
+8,Burkina Faso,2.0000
+8,Iran,3.0000
+8,Cameroon,4.0000
+8,Timor-Leste,5.0000
+8,Kiribati,3.0000
+8,Peru,7.0000
+8,Mexico,6.0000
+8,Syria,2.0000
+8,Tonga,4.0000
+8,Oman,2.0000
+8,Kenya,6.0000
+8,Andorra,5.0000
+8,United States,7.0000
+8,Nigeria,4.0000
+8,Serbia,5.0000
+8,Micronesia,3.0000
+8,New Zealand,6.0000
+8,Djibouti,2.0000
+8,Italy,7.0000
+8,Montenegro,5.0000
+8,Marshall Islands,3.0000
+8,Finland,8.0000
+8,Kyrgyzstan,4.0000
+8,Spain,7.0000
+8,South Sudan,2.0000
+8,Botswana,4.0000
+8,Lebanon,5.0000
+8,Zimbabwe,4.0000
+8,Vatican City,1.0000
+8,Chile,7.0000
+8,Iraq,2.0000
+8,Maldives,4.0000
+8,Guinea,3.0000
+8,Luxembourg,6.0000
+8,Sweden,8.0000
+8,France,8.0000
+8,Namibia,3.0000
+8,Malta,6.0000
+8,Venezuela,4.0000
+8,India,6.0000
+8,Mongolia,3.0000
+8,Sierra Leone,3.0000
+8,Canada,8.0000
+8,Bahamas,5.0000
+8,China,4.0000
+8,Tunisia,3.0000
+8,Madagascar,4.0000
+9,Vietnam,8.5000
+9,Namibia,2.0000
+9,Saint Lucia,6.0000
+9,Slovakia,4.0000
+9,Tajikistan,3.0000
+9,Liechtenstein,3.0000
+9,Kazakhstan,3.5000
+9,Armenia,4.0000
+9,North Korea,1.0000
+9,Jamaica,5.0000
+9,Djibouti,2.0000
+9,Niger,1.5000
+9,Estonia,6.5000
+9,Kyrgyzstan,4.0000
+9,Grenada,5.5000
+9,Kenya,7.0000
+9,Haiti,4.0000
+9,Serbia,4.5000
+9,Guyana,5.0000
+9,Russia,3.5000
+9,Algeria,2.0000
+9,Palestine,3.0000
+9,Dominican Republic,5.0000
+9,Bosnia and Herzegovina,4.0000
+9,Gambia,3.0000
+9,Mali,1.5000
+9,Nigeria,3.0000
+9,Tonga,2.0000
+9,Venezuela,4.0000
+9,Netherlands,9.0000
+9,Sudan,2.0000
+9,Syria,2.0000
+9,Montenegro,5.0000
+9,Angola,2.0000
+9,Brazil,8.0000
+9,India,7.0000
+9,Ethiopia,8.0000
+9,Maldives,3.0000
+9,Georgia,6.0000
+9,Iraq,2.0000
+9,San Marino,4.0000
+9,Lesotho,3.0000
+9,Suriname,4.0000
+9,Romania,5.0000
+9,Paraguay,4.0000
+9,Kiribati,1.0000
+9,Mauritius,6.0000
+9,Qatar,2.0000
+9,Japan,8.5000
+9,Uganda,6.0000
+9,Mozambique,3.0000
+9,Guinea-Bissau,2.0000
+9,Zimbabwe,4.5000
+9,Ghana,5.0000
+9,France,9.0000
+9,Cameroon,5.0000
+9,Ecuador,6.0000
+9,Israel,5.0000
+9,Singapore,7.0000
+9,Dominica,5.5000
+9,Portugal,8.0000
+9,Eswatini,4.0000
+9,Nicaragua,5.0000
+9,Trinidad and Tobago,5.0000
+9,Honduras,4.0000
+9,Bulgaria,5.0000
+9,Senegal,6.0000
+9,South Africa,7.0000
+9,Finland,8.0000
+9,United Kingdom,7.5000
+9,Botswana,4.0000
+9,"Congo, Democratic Republic of the",3.0000
+9,Albania,5.0000
+9,Saint Vincent and the Grenadines,5.0000
+9,Guinea,2.0000
+9,Belgium,8.0000
+9,China,4.0000
+9,Antigua and Barbuda,5.0000
+9,Argentina,7.0000
+9,Timor-Leste,3.0000
+9,Comoros,2.0000
+9,Kuwait,2.0000
+9,Nepal,6.0000
+9,Italy,8.0000
+9,Moldova,4.0000
+9,Libya,2.0000
+9,Slovenia,6.0000
+9,Bangladesh,3.0000
+9,Panama,5.0000
+9,Hungary,5.0000
+9,Colombia,8.0000
+9,Gabon,3.0000
+9,Sweden,9.0000
+9,Somalia,2.0000
+9,Cyprus,6.0000
+9,South Korea,8.0000
+9,Myanmar,3.0000
+9,Central African Republic,1.0000
+9,Solomon Islands,2.0000
+9,Barbados,6.0000
+10,Belgium,7.5000
+10,Malaysia,6.0000
+10,Nigeria,5.0000
+10,Benin,4.0000
+10,Samoa,3.0000
+10,South Korea,6.5000
+10,Togo,4.0000
+10,Bangladesh,5.0000
+10,"Congo, Democratic Republic of the",4.5000
+10,Uruguay,6.0000
+10,Saint Kitts and Nevis,3.0000
+10,Iran,4.0000
+10,Bosnia and Herzegovina,5.5000
+10,Germany,7.0000
+10,Cameroon,5.0000
+10,Russia,5.5000
+10,Marshall Islands,2.0000
+10,Singapore,6.5000
+10,Serbia,5.5000
+10,Solomon Islands,3.0000
+10,Fiji,3.5000
+10,Panama,6.0000
+10,Liechtenstein,4.0000
+10,Morocco,5.0000
+10,Mongolia,4.0000
+10,Indonesia,6.0000
+10,Saudi Arabia,3.0000
+10,Mexico,6.5000
+10,Iraq,3.0000
+10,Saint Lucia,3.0000
+10,Tonga,3.0000
+10,Belarus,5.0000
+10,Slovakia,5.5000
+10,Bulgaria,5.0000
+10,Eritrea,3.0000
+10,South Africa,6.0000
+10,Estonia,6.0000
+10,Guatemala,6.0000
+10,Bolivia,5.0000
+10,Costa Rica,8.0000
+10,Gambia,4.0000
+10,Czech Republic,7.0000
+10,Romania,5.5000
+10,Bhutan,6.0000
+10,Spain,7.5000
+10,Afghanistan,3.0000
+10,Mali,3.0000
+10,Tanzania,5.0000
+10,Nepal,6.0000
+10,Iceland,8.0000
+10,Australia,6.5000
+10,France,8.0000
+10,Hungary,5.5000
+10,Honduras,5.0000
+10,Mozambique,4.0000
+10,Vietnam,6.0000
+10,United Kingdom,7.0000
+10,Sudan,3.0000
+10,Egypt,4.0000
+10,Mauritius,6.0000
+10,Cambodia,5.0000
+10,Vanuatu,3.0000
+10,United States,7.0000
+10,Guinea,4.0000
+10,Colombia,8.0000
+10,Qatar,3.0000
+10,Sri Lanka,6.0000
+10,Cuba,7.0000
+10,Sweden,8.0000
+10,Taiwan,6.5000
+10,Liberia,3.0000
+10,Malta,6.0000
+10,Turkmenistan,3.0000
+10,Myanmar,5.0000
+10,Palau,3.0000
+10,Ethiopia,7.5000
+10,Oman,3.0000
+10,Portugal,7.0000
+10,Kiribati,2.0000
+10,Timor-Leste,5.0000
+10,Kuwait,3.0000
+10,El Salvador,6.0000
+10,Chile,7.5000
+10,Ghana,5.0000
+10,Guinea-Bissau,3.0000
+10,Uganda,5.0000
+10,Venezuela,4.0000
+10,Azerbaijan,4.0000
+10,North Korea,3.0000
+10,Antigua and Barbuda,3.0000
+10,Eswatini,5.0000
+10,Lesotho,4.0000
+10,Croatia,6.0000
+10,United Arab Emirates,3.0000
+10,Central African Republic,3.0000
+10,Andorra,5.0000
+10,Bahamas,4.0000
+10,Paraguay,5.0000
+10,Kazakhstan,4.0000
+10,Rwanda,5.0000
