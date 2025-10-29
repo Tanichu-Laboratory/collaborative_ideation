@@ -1,0 +1,113 @@
+{
+  "trial_index": 200,
+  "meta": {
+    "sampler_model": "gpt-4o-mini",
+    "evaluator_model": "gpt-4o-mini",
+    "rounds": 10,
+    "temp_sampler": 0.8,
+    "temp_evaluator": 0.4,
+    "tokens_this_trial": 8070
+  },
+  "events": [
+    {
+      "round": 1,
+      "role": "Sampler",
+      "msg": "Card List: [D1, S2, H5, C7, D9, S11, H13, C3, H10, S6]"
+    },
+    {
+      "round": 1,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge, I will prioritize the cards according to their suit and rank relevance.\n\n1. D9 (Tier C, +3.0)\n2. D1 (Baseline red card, +0.4)\n3. D1 (Baseline red card, +0.4)\n4. D1 (Baseline red card, +0.4)\n5. D1 (Baseline red card, +0.4)\n6. S2 (Baseline black card, +0.2)\n7. S2 (Baseline black card, +0.2)\n8. S2 (Baseline black card, +0.2)\n9. H5 (Baseline red card, +0.4)\n10. H10 (Baseline red card, +0.4)\n\nCard List: [D9, D1, D1, D1, D1, S2, S2, S2, H5, H10]"
+    },
+    {
+      "round": 2,
+      "role": "Sampler",
+      "msg": "Card List: [D2, D7, S4, S5, H2, H7, C3, C10, S9, H13]"
+    },
+    {
+      "round": 2,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge, here is my assessment:\n\n- The highest priority card is ♦7 (D7), which has a significant score of +3.5.\n- The other red cards (D2, H2, H7) provide a minor score boost.\n- The black cards (S4, S5, S9, C3, C10, H13) have lower scores, but I will include some for balance.\n\nGiven this information, my final list of 10 selections is:\n\nCard List: [D7, D7, D7, D7, D7, D7, D2, H2, H7, H7]"
+    },
+    {
+      "round": 3,
+      "role": "Sampler",
+      "msg": "Card List: [D2, D7, S2, S7, H2, H7, C2, C7, D4, H4]"
+    },
+    {
+      "round": 3,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge of the scoring system, I will prioritize the cards according to their scores. Here’s my final selection:\n\nCard List: [D7, D7, D7, D2, D2, S7, H7, C7, D4, H4]"
+    },
+    {
+      "round": 4,
+      "role": "Sampler",
+      "msg": "Card List: [D7, H7, C7, S7, D2, D4, H4, S4, C4, D10]"
+    },
+    {
+      "round": 4,
+      "role": "Evaluator",
+      "msg": "Based on the provided cards and my knowledge, I will prioritize the cards according to their scores. The highest scoring card is D7, followed by other red cards. \n\nHere’s my final list of 10 selections:\n\nCard List: [D7, D7, D7, D7, D7, H7, H7, C7, S7, D2]"
+    },
+    {
+      "round": 5,
+      "role": "Sampler",
+      "msg": "Card List: [D7, H7, C7, S7, H8, D6, C6, S6, D8, H6]"
+    },
+    {
+      "round": 5,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my assessment, here is my selection:\n\nCard List: [D8, D8, D8, D7, D7, H7, H7, C7, S7, D6]"
+    },
+    {
+      "round": 6,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D8, H7, C7, S7, D6, D9, H8, C8, S8]"
+    },
+    {
+      "round": 6,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge, I will prioritize the cards according to the rank bump and suit relevance. The most valuable card is D8, followed by D7 and D9. Other red cards will also be considered, but they will be ranked lower.\n\nHere’s my final selection:\n\nCard List: [D8, D8, D7, D7, D9, H7, H7, C7, S7, S7]"
+    },
+    {
+      "round": 7,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D8, H7, C7, S7, D9, D6, H8, C8, S8]"
+    },
+    {
+      "round": 7,
+      "role": "Evaluator",
+      "msg": "Card List: [D8, D8, D8, D7, D7, D9, H7, H8, C7, C7]"
+    },
+    {
+      "round": 8,
+      "role": "Sampler",
+      "msg": "Card List: [D9, D10, D7, H8, H9, C8, C9, S7, S8, S9]"
+    },
+    {
+      "round": 8,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge of card scoring, my selections will prioritize the cards according to their scores.\n\n1. D9 (Tier C: +3.0)\n2. D7 (Tier B: +3.5)\n3. D10 (baseline relevance: +0.4)\n4. H8 (baseline relevance: +0.4)\n5. H9 (baseline relevance: +0.4)\n6. C8 (baseline relevance: +0.2)\n7. C9 (baseline relevance: +0.2)\n8. S7 (baseline relevance: +0.2)\n9. S8 (baseline relevance: +0.2)\n10. S9 (baseline relevance: +0.2)\n\nNow, I will repeat the cards based on their scores to fill the list to 10 entries, prioritizing the higher-scoring cards.\n\nCard List: [D7, D7, D9, D9, D10, H8, H9, C8, S7, S8]"
+    },
+    {
+      "round": 9,
+      "role": "Sampler",
+      "msg": "Card List: [D8, H7, H10, C7, S9, D11, C9, S10, H11, C10]"
+    },
+    {
+      "round": 9,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge of card relevance, here is my selection:\n\nCard List: [D8, D8, D8, D8, H7, H10, C7, C9, S9, S10]"
+    },
+    {
+      "round": 10,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D9, H8, H9, C8, C10, S7, S8, S11, S12]"
+    },
+    {
+      "round": 10,
+      "role": "Evaluator",
+      "msg": "Based on the provided cards and my knowledge, here is my selection list:\n\nCard List: [D7, D9, D9, H8, H8, C8, S8, S8, S7, S7]"
+    }
+  ]
+}

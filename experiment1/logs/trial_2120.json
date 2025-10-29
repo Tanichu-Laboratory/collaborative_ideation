@@ -1,0 +1,113 @@
+{
+  "trial_index": 120,
+  "meta": {
+    "sampler_model": "gpt-4o-mini",
+    "evaluator_model": "gpt-4o-mini",
+    "rounds": 10,
+    "temp_sampler": 0.8,
+    "temp_evaluator": 0.4,
+    "tokens_this_trial": 8281
+  },
+  "events": [
+    {
+      "round": 1,
+      "role": "Sampler",
+      "msg": "Card List: [D1, D5, D9, D13, C2, C6, C10, C12, H3, H7]"
+    },
+    {
+      "round": 1,
+      "role": "Evaluator",
+      "msg": "Based on the provided cards and my knowledge of their relevance, here is my selection:\n\nCard List: [D9, D9, D9, D5, D1, D1, C2, H3, H7, C6]"
+    },
+    {
+      "round": 2,
+      "role": "Sampler",
+      "msg": "Card List: [D10, D11, D12, D13, C4, C5, H5, H6, H8, S2]"
+    },
+    {
+      "round": 2,
+      "role": "Evaluator",
+      "msg": "Based on the provided cards and my knowledge, here is my assessment:\n\n- The diamond cards (♦) are the most valuable based on rank, particularly the higher ranks.\n- The cards D10, D11, D12, and D13 are all diamonds and will be prioritized due to their higher rank.\n- The other cards (C4, C5, H5, H6, H8, S2) do not have the same level of utility as the diamond cards.\n\nConsidering this, I will select the diamond cards multiple times to reflect my confidence, while including the other cards minimally. Here’s my final list:\n\nCard List: [D13, D13, D12, D12, D11, D11, D10, D10, H5, H6]"
+    },
+    {
+      "round": 3,
+      "role": "Sampler",
+      "msg": "Card List: [D9, D8, D7, D6, H7, H8, H9, H10, S2, S3]"
+    },
+    {
+      "round": 3,
+      "role": "Evaluator",
+      "msg": "Card List: [D8, D8, D8, D7, D7, H9, H9, H7, H7, S2]"
+    },
+    {
+      "round": 4,
+      "role": "Sampler",
+      "msg": "Card List: [D9, D10, H10, H11, S7, S8, S9, C1, C2, C3]"
+    },
+    {
+      "round": 4,
+      "role": "Evaluator",
+      "msg": "Based on the provided cards and my knowledge, I will prioritize the cards according to their scores and relevance. \n\nThe highest scoring card is D9, followed by D10, H10, H11, and then the black cards. \n\nHere’s my final list of selections:\n\nCard List: [D9, D9, D9, D9, D10, H10, H11, S7, S8, S9]"
+    },
+    {
+      "round": 5,
+      "role": "Sampler",
+      "msg": "Card List: [D10, H10, H11, S7, S8, S9, C1, C2, C3, C4]"
+    },
+    {
+      "round": 5,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge, here is my selection:\n\nCard List: [D10, H10, H10, S7, S8, S9, D10, D10, D10, D10]"
+    },
+    {
+      "round": 6,
+      "role": "Sampler",
+      "msg": "Card List: [D10, H10, S7, S8, S9, C10, H7, H8, S10, D7]"
+    },
+    {
+      "round": 6,
+      "role": "Evaluator",
+      "msg": "Based on the provided cards and my knowledge of the scoring system, I will prioritize the cards as follows:\n\n1. **D7** (Tier B, +3.5)\n2. **H10** (Other red card, +0.4)\n3. **H8** (Other red card, +0.4)\n4. **H7** (Other red card, +0.4)\n5. **S10** (Other black card, +0.2)\n6. **S9** (Other black card, +0.2)\n7. **S8** (Other black card, +0.2)\n8. **S7** (Other black card, +0.2)\n9. **C10** (Other black card, +0.2)\n10. **D10** (Other red card, +0.4)\n\nNow I will build my final list based on the scoring:\n\nCard List: [D7, D7, D7, H10, H8, H7, S10, S9, S8, S7]"
+    },
+    {
+      "round": 7,
+      "role": "Sampler",
+      "msg": "Card List: [D11, D12, H6, H9, H11, S5, S6, S4, S12, S13]"
+    },
+    {
+      "round": 7,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge, I will prioritize the cards according to their relevance and scores.\n\n1. D11 (♦) - Baseline consideration for red cards: +0.4\n2. D12 (♦) - Baseline consideration for red cards: +0.4\n3. H6 (♥) - Baseline consideration for red cards: +0.4\n4. H9 (♥) - Baseline consideration for red cards: +0.4\n5. H11 (♥) - Baseline consideration for red cards: +0.4\n6. S5 (♠) - Baseline consideration for black cards: +0.2\n7. S6 (♠) - Baseline consideration for black cards: +0.2\n8. S4 (♣) - Baseline consideration for black cards: +0.2\n9. S12 (♣) - Baseline consideration for black cards: +0.2\n10. S13 (♣) - Baseline consideration for black cards: +0.2\n\nSince none of the cards from the list fit into the higher scoring tiers, I will include the red cards as they have a higher baseline score than the black cards.\n\nFinal Card List: [D11, D12, H6, H9, H11, H6, H9, H11, S5, S6]"
+    },
+    {
+      "round": 8,
+      "role": "Sampler",
+      "msg": "Card List: [D5, D6, H5, H10, H12, S2, S4, S7, S8, S11]"
+    },
+    {
+      "round": 8,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge, here's my selection:\n\nCard List: [D6, D6, D6, D5, H5, H10, H12, S4, S7, S8]"
+    },
+    {
+      "round": 9,
+      "role": "Sampler",
+      "msg": "Card List: [D7, H6, H8, H9, S5, S9, S10, S11, C6, C7]"
+    },
+    {
+      "round": 9,
+      "role": "Evaluator",
+      "msg": "Based on the provided cards and my knowledge of their scores, I will create a new list reflecting my confidence in each card:\n\n1. D7 (score: +3.5)\n2. D7 (score: +3.5)\n3. D7 (score: +3.5)\n4. D7 (score: +3.5)\n5. H8 (score: +0.4)\n6. H8 (score: +0.4)\n7. H9 (score: +0.4)\n8. H6 (score: +0.4)\n9. S5 (score: +0.2)\n10. S9 (score: +0.2)\n\nCard List: [D7, D7, D7, D7, H8, H8, H9, H6, S5, S9]"
+    },
+    {
+      "round": 10,
+      "role": "Sampler",
+      "msg": "Card List: [H8, H9, H6, S5, S9, D6, D8, C7, C8, C9]"
+    },
+    {
+      "round": 10,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my assessment of their relevance, here is my selection:\n\nCard List: [D8, D8, D8, H8, H9, H6, C9, C9, S9, S5]"
+    }
+  ]
+}
