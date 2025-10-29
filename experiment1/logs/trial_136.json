@@ -1,0 +1,123 @@
+{
+  "trial_index": 136,
+  "meta": {
+    "sampler_model": "gpt-4o-mini",
+    "evaluator_model": "gpt-4o-mini",
+    "rounds": 10,
+    "temp_sampler": 0.8,
+    "temp_evaluator": 0.4,
+    "tokens_this_trial": 8412
+  },
+  "events": [
+    {
+      "round": 1,
+      "role": "Sampler",
+      "msg": "Card List: [D5, C7, H2, S9, D12, S4, H11, C1, D8, H6]"
+    },
+    {
+      "round": 1,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge of card relevance, here is my selection:\n\nCard List: [D8, D8, D8, D8, D8, D5, D5, C7, S9, H6]"
+    },
+    {
+      "round": 2,
+      "role": "Sampler",
+      "msg": "Card List: [D8, D5, C7, S9, H6, D10, H10, C5, S7, D4]"
+    },
+    {
+      "round": 2,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my assessment, here is my selection:\n\nCard List: [D8, D8, D8, D7, D7, D5, H6, C7, S9, D10]"
+    },
+    {
+      "round": 2,
+      "role": "System",
+      "msg": "WARNING (Round 2): Evaluator selected cards not in Sampler options: ['D7']"
+    },
+    {
+      "round": 3,
+      "role": "Sampler",
+      "msg": "Card List: [D8, D7, D5, H6, C7, S9, C10, H8, S5, D6]"
+    },
+    {
+      "round": 3,
+      "role": "Evaluator",
+      "msg": "Card List: [D8, D8, D8, D7, D7, D5, H6, H8, S9, C7]"
+    },
+    {
+      "round": 4,
+      "role": "Sampler",
+      "msg": "Card List: [D6, D9, H7, H9, S6, S10, C8, C9, C10, C11]"
+    },
+    {
+      "round": 4,
+      "role": "Evaluator",
+      "msg": "Based on the provided cards and my knowledge, I will prioritize the cards according to their scores. \n\n- The highest score is for ♦9 (score: +3.0).\n- Next, I will consider the other red cards (♦6, ♥7, ♥9) which have a baseline score of +0.4.\n- The black cards (♠6, ♠10, ♣8, ♣9, ♣10, ♣11) have a lower score of +0.2.\n\nHere’s my final list of selections, focusing on the highest scoring cards:\n\nCard List: [D9, D9, D9, D9, D9, H7, H7, H9, D6, D6]"
+    },
+    {
+      "round": 5,
+      "role": "Sampler",
+      "msg": "Card List: [D8, D10, H6, H8, H10, C7, C9, S6, S8, S10]"
+    },
+    {
+      "round": 5,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge of the scoring system, I will prioritize the cards according to their scores.\n\n1. **D8** (Tier A: +8.0)\n2. **D10** (Baseline consideration: +0.4)\n3. **H6** (Baseline consideration: +0.4)\n4. **H8** (Baseline consideration: +0.4)\n5. **H10** (Baseline consideration: +0.4)\n6. **C7** (Baseline consideration: +0.2)\n7. **C9** (Baseline consideration: +0.2)\n8. **S6** (Baseline consideration: +0.2)\n9. **S8** (Baseline consideration: +0.2)\n10. **S10** (Baseline consideration: +0.2)\n\nNow, I will create my selection list, emphasizing the D8 as it has the highest score and including the other cards to reach a total of 10 selections.\n\nCard List: [D8, D8, D8, D8, D8, D8, D10, H6, H8, H10]"
+    },
+    {
+      "round": 6,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D9, D11, D12, D13, H5, H9, H11, H12, H13]"
+    },
+    {
+      "round": 6,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge, here is my selection:\n\nCard List: [D7, D7, D9, D9, D9, H5, H11, H12, H13, H13] \n\nThis selection prioritizes the higher utility of the cards while ensuring I have exactly 10 entries."
+    },
+    {
+      "round": 7,
+      "role": "Sampler",
+      "msg": "Card List: [D7, D9, H5, H11, H12, H13, C3, C7, S10, S12]"
+    },
+    {
+      "round": 7,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge, here is my assessment of the cards:\n\n1. D9 (Tier C, score: +3.0)\n2. D7 (Tier B, score: +3.5)\n3. D7 (Tier B, score: +3.5)\n4. D7 (Tier B, score: +3.5)\n5. D9 (Tier C, score: +3.0)\n6. D9 (Tier C, score: +3.0)\n7. H5 (Baseline consideration, score: +0.4)\n8. H11 (Baseline consideration, score: +0.4)\n9. H12 (Baseline consideration, score: +0.4)\n10. H13 (Baseline consideration, score: +0.4)\n\nNow, I will create my final list based on the above analysis:\n\nCard List: [D7, D7, D7, D9, D9, D9, H5, H11, H12, H13]"
+    },
+    {
+      "round": 8,
+      "role": "Sampler",
+      "msg": "Card List: [D8, D10, D11, D12, H2, H3, H4, H6, H7, H9]"
+    },
+    {
+      "round": 8,
+      "role": "Evaluator",
+      "msg": "Based on the provided card list and my knowledge of the card scoring system, I will prioritize the cards according to their scores. \n\n1. **D8** (Tier A: +8.0) - Highest priority.\n2. **D10** (Baseline consideration: +0.4) - Red card.\n3. **D11** (Baseline consideration: +0.4) - Red card.\n4. **D12** (Baseline consideration: +0.4) - Red card.\n5. **H2** (Baseline consideration: +0.4) - Red card.\n6. **H3** (Baseline consideration: +0.4) - Red card.\n7. **H4** (Baseline consideration: +0.4) - Red card.\n8. **H6** (Baseline consideration: +0.4) - Red card.\n9. **H7** (Baseline consideration: +0.4) - Red card.\n10. **H9** (Baseline consideration: +0.4) - Red card.\n\nNow, I will reflect my confidence in the cards by repeating the highest scoring card multiple times and including a few other options.\n\nCard List: [D8, D8, D8, D8, D8, D10, D11, D12, H2, H3]"
+    },
+    {
+      "round": 9,
+      "role": "Sampler",
+      "msg": "Card List: [D8, D10, D11, D12, H2, H3, C10, C11, S9, S10]"
+    },
+    {
+      "round": 9,
+      "role": "Evaluator",
+      "msg": "Card List: [D8, D8, D8, D8, D10, D11, D12, H2, H3, C10]"
+    },
+    {
+      "round": 10,
+      "role": "Sampler",
+      "msg": "Card List: [D9, D10, D11, H4, H5, H6, C7, C8, C9, S1]"
+    },
+    {
+      "round": 10,
+      "role": "Evaluator",
+      "msg": "Based on the provided cards and my knowledge, I will create a new list of 10 selections that reflect my confidence in the cards.\n\n1. D9 (Tier C: +3.0)\n2. D9 (Tier C: +3.0)\n3. D9 (Tier C: +3.0)\n4. D9 (Tier C: +3.0)\n5. D8 (Tier A: +8.0)\n6. D10 (Baseline consideration: +0.4)\n7. D11 (Baseline consideration: +0.4)\n8. H4 (Baseline consideration: +0.4)\n9. H5 (Baseline consideration: +0.4)\n10. H6 (Baseline consideration: +0.4)\n\nCard List: [D9, D9, D9, D9, D8, D10, D11, H4, H5, H6]"
+    },
+    {
+      "round": 10,
+      "role": "System",
+      "msg": "WARNING (Round 10): Evaluator selected cards not in Sampler options: ['D8']"
+    }
+  ]
+}
