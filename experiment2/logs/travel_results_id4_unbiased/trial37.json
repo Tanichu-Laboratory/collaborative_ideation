@@ -1,0 +1,102 @@
+[
+  {
+    "round": 1,
+    "role": "Sampler",
+    "msg": "Country List: [Japan, Brazil, Italy, Australia, Canada, South Africa, Thailand, New Zealand, Greece, Mexico]"
+  },
+  {
+    "round": 1,
+    "role": "Evaluator",
+    "msg": "Country List: [Canada, Canada, Canada, Japan, Japan, Italy, Italy, Greece, Greece, South Africa]"
+  },
+  {
+    "round": 2,
+    "role": "Sampler",
+    "msg": "Country List: ['Australia', 'New Zealand', 'France', 'Spain', 'Brazil', 'Thailand', 'Mexico', 'Norway', 'Switzerland', 'India']"
+  },
+  {
+    "round": 2,
+    "role": "Evaluator",
+    "msg": "Country List: [Norway, Norway, Norway, Switzerland, Switzerland, Switzerland, France, France, Spain, Spain]"
+  },
+  {
+    "round": 3,
+    "role": "Sampler",
+    "msg": "Country List: ['Sweden', 'Denmark', 'Finland', 'Austria', 'Italy', 'Greece', 'Portugal', 'Iceland', 'Ireland', 'Netherlands']"
+  },
+  {
+    "round": 3,
+    "role": "Evaluator",
+    "msg": "Country List: [Sweden, Finland, Iceland, Denmark, Sweden, Finland, Iceland, Denmark, Sweden, Finland]"
+  },
+  {
+    "round": 4,
+    "role": "Sampler",
+    "msg": "Country List: ['Norway', 'Estonia', 'Latvia', 'Lithuania', 'Germany', 'Netherlands', 'Belgium', 'Ireland', 'United Kingdom', 'Poland']"
+  },
+  {
+    "round": 4,
+    "role": "Evaluator",
+    "msg": "Country List: [Norway, Estonia, Latvia, Lithuania, Germany, Poland, Norway, Estonia, Latvia, Germany]"
+  },
+  {
+    "round": 5,
+    "role": "Sampler",
+    "msg": "Country List: ['Sweden', 'Finland', 'Denmark', 'Iceland', 'Czech Republic', 'Hungary', 'Belgium', 'Netherlands', 'Austria', 'Switzerland']"
+  },
+  {
+    "round": 5,
+    "role": "Evaluator",
+    "msg": "Country List: [Sweden, Finland, Finland, Finland, Denmark, Denmark, Iceland, Czech Republic, Hungary, Hungary]"
+  },
+  {
+    "round": 6,
+    "role": "Sampler",
+    "msg": "Country List: [Norway, Estonia, Latvia, Lithuania, Poland, Slovakia, Austria, Switzerland, Netherlands, Belgium]"
+  },
+  {
+    "round": 6,
+    "role": "Evaluator",
+    "msg": "Country List: [Norway, Estonia, Latvia, Poland, Slovakia, Norway, Estonia, Latvia, Poland, Slovakia]"
+  },
+  {
+    "round": 7,
+    "role": "Sampler",
+    "msg": "Country List: ['Sweden', 'Finland', 'Denmark', 'Lithuania', 'Czech Republic', 'Hungary', 'Austria', 'Switzerland', 'Iceland', 'Ireland']"
+  },
+  {
+    "round": 7,
+    "role": "Evaluator",
+    "msg": "Country List: [Finland, Finland, Finland, Sweden, Sweden, Denmark, Denmark, Hungary, Iceland, Czech Republic]"
+  },
+  {
+    "round": 8,
+    "role": "Sampler",
+    "msg": "Country List: ['Norway', 'Estonia', 'Latvia', 'Lithuania', 'Poland', 'Slovakia', 'Austria', 'Switzerland', 'Germany', 'Netherlands']"
+  },
+  {
+    "round": 8,
+    "role": "Evaluator",
+    "msg": "Country List: [Norway, Estonia, Latvia, Poland, Slovakia, Norway, Estonia, Latvia, Poland, Slovakia]"
+  },
+  {
+    "round": 9,
+    "role": "Sampler",
+    "msg": "Country List: [Sweden, Finland, Denmark, Lithuania, Czech Republic, Hungary, Austria, Ireland, Iceland, Switzerland]"
+  },
+  {
+    "round": 9,
+    "role": "Evaluator",
+    "msg": "Country List: [Finland, Finland, Finland, Sweden, Sweden, Sweden, Denmark, Denmark, Hungary, Iceland]"
+  },
+  {
+    "round": 10,
+    "role": "Sampler",
+    "msg": "Country List: [Norway, Estonia, Latvia, Lithuania, Germany, Netherlands, Poland, Austria, Switzerland, Czech Republic]"
+  },
+  {
+    "round": 10,
+    "role": "Evaluator",
+    "msg": "Country List: [Norway, Estonia, Latvia, Lithuania, Germany, Poland, Norway, Norway, Estonia, Germany]"
+  }
+]
